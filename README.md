@@ -8,3 +8,9 @@
 
 ### :sparkles: About this project
 This project is a web application that consumes an API to control a parking lot. This is a basic project with the aim of applying the knowledge acquired about integrating applications with APIs and developing web pages.
+
+>The API used in this project can be found in the following repository
+>https://github.com/GuilhermeFreire-Dev/Parking_Api
+
+### :bulb: Resources
+In this project Vue Js was used with Bootstrap 5 resources.
